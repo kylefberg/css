@@ -1,121 +1,121 @@
 /*Starting library */
-#aline-con-cent {
+#acc {
   align-content: center;
 }
 
-#aline-con-l {
+#acl {
   align-content: left;
 }
 
-#aline-con-r {
+#acr {
   align-content: right;
 }
 
-#aline-con-start {
+#acfs {
   align-content: flex-start;
 }
 
-#aline-con-end {
+#acfe {
   align-content: flex-end;
 }
 
-#aline-spc-btwn {
+#acsb {
   align-content: space-between;
 }
 
-#aline-spc-around {
+#acsa {
   align-content: space-around;
 }
 
-#aline-str {
+#acs {
   align-content: stretch;
 }
 
-#aline-itm-cent {
+#aic {
   align-items: center;
 }
 
-#aline-itm-l {
+#ail {
   align-items: left;
 }
 
-#aline-itm-r {
+#air {
   align-items: right;
 }
 
-#aline-itm-start {
+#aifs {
   align-items: flex-start;
 }
 
-#aline-itm-end {
+#aife {
   align-items: flex-end;
 }
 
-#aline-itm-base {
+#aib {
   align-items: baseline;
 }
 
-#aline-itm-str {
+#ais {
   align-items: stretch;
 }
 
-#aline-slf-cent {
+#asc {
   align-self: center;
 }
 
-#aline-slf-l {
+#asl {
   align-self: left;
 }
 
-#aline-slf-r {
+#asr {
   align-self: right;
 }
 
-#aline-slf-start {
+#asfs {
   align-self: flex-start;
 }
 
-#aline-slf-end {
+#asfe {
   align-self: flex-end;
 }
 
-#aline-slf-base {
+#asb {
   align-self: baseline;
 }
 
-#aline-slf-str {
+#ass {
   align-self: stretch;
 }
 
-#backgr-img {
+#bi {
   background-image: url();
 }
 
-#backgr-pos {
+#bpc {
   background-position: center;
 }
 
-#backgr-siz {
+#bs {
   background-size: 100%
 }
 
-#backgr-rpt {
+#br {
   background-repeat: no-repeat;
 }
 
-#backgr-atch-scr {
+#bas {
   background-attachment: scroll;
 }
 
-#backgr-atch-fix {
+#baf {
   background-attachment: fixed;
 }
 
-#backgr-atch-local {
+#bal {
   background-attachment: local;
 }
 
-#backgr-col {
+#bc {
   background-color: black;
 }
 
@@ -146,10 +146,14 @@
   clip: (500px, 500px, 500px, 500px);
 }
 
-#disp-inline {
+#di {
   display: inline;
 }
 
-#disp-inline-blk {
+#dib {
   display: inline-block;
+}
+
+#db {
+  display: block;
 }
